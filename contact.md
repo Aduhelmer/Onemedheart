@@ -2,9 +2,6 @@
 title: 联系我们
 layout: contact
 description: Contact
-intro_image: "images/illustrations/handshake.svg"
-intro_image_absolute: false
-intro_image_hide_on_mobile: true
 ---
 
 ![Handshake](/images/illustrations/handshake.svg)
