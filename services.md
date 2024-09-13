@@ -1,6 +1,6 @@
 ---
 title: 服务项目
-layout: Services
+layout: services
 description: Services
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
