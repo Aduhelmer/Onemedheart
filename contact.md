@@ -4,7 +4,7 @@ layout: page
 description: Contact
 ---
 
-![Handshake](/images/illustrations/handshake.svg)
+![Handshake](/images/illustrations/handshake.png)
 
 # 商务合作：
 
