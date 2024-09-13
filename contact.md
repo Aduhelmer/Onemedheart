@@ -1,6 +1,6 @@
 ---
 title: 联系我们
-layout: contact
+layout: 联系我们
 description: Contact
 ---
 
