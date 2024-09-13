@@ -3,12 +3,9 @@ title: 关于我们
 layout: page
 description: About
 description: About us
-intro_image: "images/illustrations/About.svg"
-intro_image_absolute: false
-intro_image_hide_on_mobile: true
 ---
 
-
+![About us](/images/illustrations/About.svg)
 
 # 公司介绍
 
