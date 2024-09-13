@@ -5,7 +5,7 @@ description: About
 description: About us
 ---
 
-![About us](/images/illustrations/About.svg)
+![About us](/images/illustrations/About.png)
 
 # 公司介绍
 
