@@ -1,16 +1,13 @@
 ---
-title: Contact
+title: 联系我们
 layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+商务合作请联系：
 
-| Day       | Opening Hours   |
+| 联系方式       |    |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| 微信   | yixinyiyi-keji |
+| 手机   | 13702047936 |
+| 邮箱   | 13702047936@163.com |
