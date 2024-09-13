@@ -1,6 +1,6 @@
 ---
 title: 项目团队
-layout: teams
+layout: contact
 description: Team
 ---
 
