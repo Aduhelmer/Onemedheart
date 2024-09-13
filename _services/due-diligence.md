@@ -6,7 +6,7 @@ weight: 6
 
 为医药企业合作交易和融资提供商业尽职调查服务，帮助企业在各类交易中识别潜在风险并做出明智决策。
 
-![consultation](/images/illustrations/consultation.png)
+![consultation](/images/illustrations/consultation.jpg)
 
 · 提供全面的行业洞察与产品管线规划服务，涵盖治疗领域、热门技术与趋势的深度分析，适应症和靶点的研究，以及研发产品管线的详细调研。
 
