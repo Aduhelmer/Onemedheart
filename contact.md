@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: true
 
 
 
-# 商务合作请联系：
+# 商务合作：
 
 
 
