@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# 医心科技
+# One MedHeart
 
 医心科技，一心一意为您提供专业医药科研咨询服务
