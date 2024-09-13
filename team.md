@@ -4,7 +4,7 @@ layout: page
 description: Team
 ---
 
-![Handshake](/images/illustrations/team.svg)
+![Handshake](/images/illustrations/team.png)
 
 # 团队组成
 
