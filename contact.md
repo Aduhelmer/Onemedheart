@@ -13,7 +13,7 @@ intro_image_hide_on_mobile: true
 
 
 
-| 联系方式       |    |
+
 
 | 微信   | yixinyiyi-keji |
 | 手机   | 13702047936 |
