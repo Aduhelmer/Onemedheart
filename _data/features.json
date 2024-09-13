@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "论文服务",
+    "description": "医药领域专业中英文语言、语法、文风一致性修改，术语准确性、逻辑结构调整",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "会务支持",
+    "description": "线上线下医学会议一条龙服务，同时兼具新媒体打造和网红医生等",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "市场研究",
+    "description": "医药领域市场研究、立项调研、产品估值、管线规划以及情报跟踪等",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
