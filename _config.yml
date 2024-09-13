@@ -3,10 +3,10 @@ permalink: pretty
 title: '医心科技'
 
 logo:
-  mobile: "images/logo/logo.svg"
+  mobile: "images/logo/logo-mobile.svg"
   mobile_height: "33px"
   mobile_width: "33px"
-  desktop: "images/logo/logo-mobile.png"
+  desktop: "images/logo/logo.png"
   desktop_height: "29px"
   desktop_width: "133px"
 
