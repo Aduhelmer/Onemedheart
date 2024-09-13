@@ -2,7 +2,7 @@
 title: 关于我们
 layout: page
 description: About
-bodyClass: page-about
+description: About us
 intro_image: "images/illustrations/About.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
