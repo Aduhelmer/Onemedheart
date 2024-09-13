@@ -7,13 +7,9 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-
+![Handshake](/images/illustrations/handshake.svg)
 
 # 商务合作：
-
-
-
-
 
 | 微信   | yixinyiyi-keji |
 | 手机   | 13702047936 |
