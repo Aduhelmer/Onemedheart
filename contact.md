@@ -10,5 +10,5 @@ description: Contact
 
 | 微信   | yixinyiyi-keji |
 | 手机   | 13702047936 |
-| 邮箱   | 13702047936@163.com |
+| 邮箱   | one@onemedheart.com |
 |   |    |
