@@ -2,7 +2,7 @@ main:
   - name: "关于我们"
     url: "/about/"
     weight: 2
-    - name: "服务项目"
+  - name: "服务项目"
     url: "/services/"
     weight: 3
   - name: "项目团队"
