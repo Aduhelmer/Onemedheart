@@ -10,5 +10,5 @@ description: Contact
 
 | 手机   | 137 0204 7936 |
 | 微信   | yixinyiyi-keji |
-| 邮箱   | one@onemedheart.com |
+| 邮箱   | bd@onemedheart.com |
 |   |    |
