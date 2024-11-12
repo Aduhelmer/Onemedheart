@@ -13,10 +13,10 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     const emailDomain = email.split('@')[1];
 
     if (freeEmailDomains.includes(emailDomain)) {
-        responseMessage.innerText = 'Please use your company email address (e.g., name@company.com).';
+        responseMessage.innerText = '请使用企业邮箱，Please use your company email address (e.g., name@company.com).';
         responseMessage.style.color = 'red';
     } else {
-        responseMessage.innerText = 'Thank you for submitting your contact information!';
+        responseMessage.innerText = '感谢您的提交，Thank you for submitting your contact information!';
         responseMessage.style.color = 'green';
 
         // 提交表单
